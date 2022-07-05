@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/gui/GuiLite/UIcode/out/build/x64-Debug (默认值)/CMakeFiles/UIcode.dir
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/gui/GuiLite/UIcode/out/build/x64-Debug (默认值)/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/gui/GuiLite/UIcode/out/build/x64-Debug (默认值)/CMakeFiles/rebuild_cache.dir

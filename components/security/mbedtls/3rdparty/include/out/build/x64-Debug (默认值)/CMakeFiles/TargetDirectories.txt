@@ -1,0 +1,5 @@
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/security/mbedtls/3rdparty/include/out/build/x64-Debug (默认值)/CMakeFiles/install/local.dir
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/security/mbedtls/3rdparty/include/out/build/x64-Debug (默认值)/CMakeFiles/install.dir
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/security/mbedtls/3rdparty/include/out/build/x64-Debug (默认值)/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/security/mbedtls/3rdparty/include/out/build/x64-Debug (默认值)/CMakeFiles/rebuild_cache.dir
+C:/Users/DELL/Desktop/新建文件夹/TencentOS-tiny/components/security/mbedtls/3rdparty/include/out/build/x64-Debug (默认值)/CMakeFiles/list_install_components.dir
